@@ -1,0 +1,79 @@
+body {
+  font-size: 16px;
+  background-color: #e7e6e6;
+}
+
+#header-nav {
+  background-color: #272727;
+  border-radius: 0;
+  border: 0;
+  box-shadow: 1px 1px 1px outset;
+}
+.title{color: #191b18;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+}
+.detail{font-size: xx-large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-top: -2vh;
+        margin-bottom: 2vh;
+}
+.navbar-brand {
+  padding: 6vh;
+}
+.navbar-brand h1 { 
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #69994d;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { 
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #c8f308;
+  text-align: center;
+  font-weight: 500;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-variant: small-caps;
+}
+#nav-list a:hover {
+  background: #595e58;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1.5px solid #eff3f1;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -8vh;
+}
+
+.pad{
+  padding: 4vh;
+  margin: calc(8.333333333%/2);
+  margin-bottom: 1vh ;
+  justify-self: center;
+  background-color: #817c7c;
+  color: rgb(0, 0, 0);
+  font-weight: 550;
+}
+
+
+
